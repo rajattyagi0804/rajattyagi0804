@@ -13,7 +13,7 @@ A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, 
 
 Stats
 
-![Rajat's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=rajattyagi0804&theme=merko)
+[![Rajat's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=rajattyagi0804&theme=merko)](https://github-readme-activity-graph.vercel.app/graph?username=yash5015&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 | ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajattyagi0804&show_icons=true&theme=merko) | ![Rajat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajattyagi0804&theme=merko) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajattyagi0804&langs_count=8&theme=merko) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=rajattyagi0804&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=merko) |
