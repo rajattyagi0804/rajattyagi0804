@@ -1,7 +1,7 @@
 ## Hey👋, I'm Rajat Tyagi
 
 
-A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, JavaScript, CSS, and HTML. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
+A student of B.Tech. in Computer Science and Engg skilled in Flutter, Dart, Java, HTML5, CSS3, JavaScript,  Node.js, and ReactJS. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
 
 - 🔭 I’m currently working on Flutter, Dart, Java, HTML5, CSS3, JavaScript,  Node.js, and ReactJS.
 - 🌱 I’m currently learning Data Structures and algorithms, Full stack development.
