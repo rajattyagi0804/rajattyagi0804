@@ -3,10 +3,10 @@
 
 A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, JavaScript, CSS, and HTML. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
 
-- 🔭 I’m currently working on HTML5, CSS3, JavaScript,  Node.js, ReactJS, Flutter, Dart.
-- 🌱 I’m currently learning Data Stucture and algorithms,Full stack development.
-- 👯 I’m looking to collaborate on Projects,Tech Articles.
-- 💬 Talk to me about Problem Solving,Web development, Open Source.
+- 🔭 I’m currently working on Flutter, Dart,Java,HTML5, CSS3, JavaScript,  Node.js, ReactJS,.
+- 🌱 I’m currently learning Data Structures and algorithms, Full stack development.
+- 👯 I’m looking to collaborate on Projects, Tech Articles.
+- 💬 Talk to me about Problem Solving, android development, Web development, and Open Source.
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & curious.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajattyagi0804&label=Profile%20views&color=0e75b6&style=flat" alt="rajattyagi0804" /> </p>
